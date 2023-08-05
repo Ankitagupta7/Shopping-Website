@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Superomart", "Superomart\Superomart.csproj", "{6C1C73E6-CAB6-422A-B1B8-EECC8547B99A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C1C73E6-CAB6-422A-B1B8-EECC8547B99A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C1C73E6-CAB6-422A-B1B8-EECC8547B99A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C1C73E6-CAB6-422A-B1B8-EECC8547B99A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C1C73E6-CAB6-422A-B1B8-EECC8547B99A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05AEDBC6-8E62-44C5-877B-8DFA6FE7230E}
+	EndGlobalSection
+EndGlobal
